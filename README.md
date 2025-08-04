@@ -21,7 +21,7 @@ You can try out the model directly using the following Colab notebooks:
 
 Click below to open a Colab notebook where you can upload your **noisy image**, and the model will perform denoising:
 
-[![Open In Colab - Noisy Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdkarimullahaque/IP-NFDE/blob/main/IP_NFDE_Noisy_Image.ipynb)
+[![Open In Colab - Noisy Image](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdkarimullahaque/IP-NFDE/blob/main/User_Test/IP_NFDE_Noisy_Image.ipynb)
 
 ---
 
@@ -29,7 +29,7 @@ Click below to open a Colab notebook where you can upload your **noisy image**, 
 
 Click below to upload a **clean image**, choose the noise level (L), and see how the model performs denoising on artificially noised input:
 
-[![Open In Colab - User Image + Noise](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdkarimullahaque/IP-NFDE/blob/main/IP_NFDE_User_Image.ipynb)
+[![Open In Colab - User Image + Noise](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mdkarimullahaque/IP-NFDE/blob/main/User_Test/IP_NFDE_User_Image.ipynb)
 
 ---
 
